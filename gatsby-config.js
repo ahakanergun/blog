@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
+    title: 'Yazılar',
+    author: 'Ahmet Hakan Ergün',
     description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
+    siteUrl: 'ahmethakanergun.com',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
